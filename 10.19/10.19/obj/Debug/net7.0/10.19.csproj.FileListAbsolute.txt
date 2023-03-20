@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\10.19\10.19\bin\Debug\net7.0\10.19.exe
+C:\Users\djang\source\repos\10.19\10.19\bin\Debug\net7.0\10.19.deps.json
+C:\Users\djang\source\repos\10.19\10.19\bin\Debug\net7.0\10.19.runtimeconfig.json
+C:\Users\djang\source\repos\10.19\10.19\bin\Debug\net7.0\10.19.dll
+C:\Users\djang\source\repos\10.19\10.19\bin\Debug\net7.0\10.19.pdb
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.AssemblyInfo.cs
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.dll
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\refint\10.19.dll
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.pdb
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\10.19.genruntimeconfig.cache
+C:\Users\djang\source\repos\10.19\10.19\obj\Debug\net7.0\ref\10.19.dll
